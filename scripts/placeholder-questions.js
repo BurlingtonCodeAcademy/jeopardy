@@ -1,4 +1,6 @@
-    const placeholderQuestions = [
+// Do not change this code
+
+const placeholderQuestions = [
         {
             "category": "Nature",
             "question": "The human heart has how many chambers?",
@@ -306,4 +308,4 @@
         }
     ]
 
-    module.exports = placeholderQuestions
+export default placeholderQuestions
