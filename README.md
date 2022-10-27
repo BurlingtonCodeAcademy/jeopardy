@@ -1,22 +1,22 @@
 # Jeopardy Board
 
-Jeopardy! The great American quiz show has been a staple of network television since the 60s.  In this project we will be creating our own Jeopardy board which we will build the functionality for in later weeks. For now we're going to focus on site design and navigation.
+Jeopardy! The great American quiz show has been a staple of network television since the 60s. In this project we will be creating our own Jeopardy board which we will build the functionality for in later weeks. For now we're going to focus on site design and navigation.
 
 This site will consist of 4 pages: a landing page, a first round page, a second round page, and a final round page.
 
-# Wireframes
+## Wireframes
 
 At the following link, you will find a Figma containing the four wireframes necessary for this project.
 
 **[Link to Project Wireframes](https://www.figma.com/file/w9CN0fvM7gqYtKiGYXxvXv/jeopardy-wireframes?node-id=0%3A1)**
 
-# Stories
+## Stories
 
 ## The Landing Page
 
 **Given** an `index.html` file exists.
 
-**When**  the user visits the `index.html` file.
+**When** the user visits the `index.html` file.
 
 **Then** they should see the landing page.
 
@@ -62,7 +62,7 @@ At the following link, you will find a Figma containing the four wireframes nece
 
 **When** they click the button to navigate to the second round page.
 
-**Then** they should be taken to the secnd round page.
+**Then** they should be taken to the second round page.
 
 ## Second Round Page
 
@@ -101,11 +101,12 @@ At the following link, you will find a Figma containing the four wireframes nece
 **And** a single final category with a single final question.
 
 **And** Two forms:
-  * One with a field for the amount you want to bet.
-  * One for the final answer, the button for which should be disabled
 
-# Icebox
+- One with a field for the amount you want to bet.
+- One for the final answer, the button for which should be disabled
 
-* Create your own theme for your site.
-* Make the site fully mobile responsive.
-* The site should have animated elements. Libraries are allowed.
+## Icebox
+
+- Create your own theme for your site.
+- Make the site fully mobile responsive.
+- The site should have animated elements. Libraries are allowed.
